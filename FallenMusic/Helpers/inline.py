@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ME", url="https://t.me/stranger_of_tekegram"
+            text="ME", url="https://t.me/stranger_of_telegram"
         ),
         InlineKeyboardButton(text=" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=config.OWNER_ID),
     ],
