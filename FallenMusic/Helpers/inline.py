@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+rom pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 import config
 from FallenMusic import BOT_USERNAME
@@ -54,9 +54,11 @@ pm_buttons = [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
     ],
-    [InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID)],
-
+    [
+        InlineKeyboardButton(
+            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob"),
 ]
+
 
 gp_buttons = [
     [
@@ -69,9 +71,11 @@ gp_buttons = [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
     ],
-    [InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID)],
-
+    [
+        InlineKeyboardButton(
+            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob"),
 ]
+
 
 helpmenu = [
     [
