@@ -42,7 +42,7 @@ buttons = InlineKeyboardMarkup(
 )
 
 
-pm_buttons = 
+pm_buttons = [
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
@@ -56,11 +56,14 @@ pm_buttons =
     ],
     [
         InlineKeyboardButton(
-            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob")
-],
+            text="ME", url="https://t.me/stranger_of_tekegram"
+        ),
+        InlineKeyboardButton(text=" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=config.OWNER_ID),
+    ],
+]
 
 
-gp_buttons = 
+gp_buttons = [
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
@@ -73,8 +76,11 @@ gp_buttons =
     ],
     [
         InlineKeyboardButton(
-            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob")
-],
+            text="ME", url="https://t.me/starnger_of_telegram"
+        ),
+        InlineKeyboardButton(text=" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=config.OWNER_ID),
+    ],
+]
 
 
 helpmenu = [
