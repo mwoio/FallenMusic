@@ -56,8 +56,8 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob"),
-]
+            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob")
+],
 
 
 gp_buttons = [
@@ -73,8 +73,8 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob"),
-]
+            text="🧑‍🦯 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🧑‍🦯 ", url="https://t.me/verified_noob")
+],
 
 
 helpmenu = [
