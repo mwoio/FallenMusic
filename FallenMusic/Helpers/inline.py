@@ -60,7 +60,7 @@ pm_buttons = [
 ],
 
 
-gp_buttons = [
+gp_buttons = 
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
@@ -77,7 +77,7 @@ gp_buttons = [
 ],
 
 
-helpmenu = [
+helpmenu = 
     [
         InlineKeyboardButton(
             text="ᴇᴠᴇʀʏᴏɴᴇ",
