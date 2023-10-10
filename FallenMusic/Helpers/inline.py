@@ -42,7 +42,7 @@ buttons = InlineKeyboardMarkup(
 )
 
 
-pm_buttons = [
+pm_buttons = 
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
@@ -77,7 +77,7 @@ gp_buttons =
 ],
 
 
-helpmenu = 
+helpmenu = [
     [
         InlineKeyboardButton(
             text="ᴇᴠᴇʀʏᴏɴᴇ",
